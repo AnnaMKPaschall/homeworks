@@ -1,0 +1,19 @@
+body {
+    background: greenyellow;
+}
+
+#calc {
+    background: magenta;
+    text-align: center; 
+}
+
+button {
+    padding: 30px; 
+    border: 1px solid purple; 
+    border-radius: 15%; 
+}
+
+input {
+    padding: 30px; 
+
+}
